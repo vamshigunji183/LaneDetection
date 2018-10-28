@@ -19,5 +19,5 @@
       * drawing the line using slope (this is an interesting geomentric problem to solve)
     * `image` is the output of the `hough_lines()`, An image with lines drawn on it.Should be a blank image (all black) with lines drawn on it.
     
- <a href="https://youtu.be/kzGJZ7QF50k" target="_blank"><img src="https://youtu.be/kzGJZ7QF50k"alt="Demo" width="240" height="180" border="10" /></a>
+ [![Demo](https://github.com/vamshigunji183/LaneDetection/blob/master/result_straight.gif)](https://youtu.be/kzGJZ7QF50k)
       
